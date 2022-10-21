@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owinoojala
+- 👋 Hi, I’m Black J
 - 👀 I’m interested in ...Python, web development, AI, Machine Learning
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Web development, AI and Machine Learning
